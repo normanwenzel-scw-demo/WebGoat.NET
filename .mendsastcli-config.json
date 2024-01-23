@@ -1,5 +1,6 @@
 {
   "scans": {
-         "csEngineGeneration": 2
+         "csEngineGeneration": 2,
+        "jsEngineGeneration": 2
     }
 }
