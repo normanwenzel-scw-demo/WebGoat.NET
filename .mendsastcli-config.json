@@ -1,8 +1,6 @@
 {
     "scans": {
-        "csharpEngineGeneration": 2,
-        "jsEngineGeneration": 2,
-        "exclusions": [],
+       "exclusions": [],
         "timeouts": {
             "perFile": 300
             "perLanguage": 600000
