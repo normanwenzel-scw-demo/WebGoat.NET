@@ -1,6 +1,6 @@
 {
     "scans": {
-       "exclusions": [],
+       "exclusions": "test",
         "timeouts": {
             "perFile": 300
             "perLanguage": 600000
