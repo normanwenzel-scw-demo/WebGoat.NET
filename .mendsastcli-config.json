@@ -1,3 +1,10 @@
 {
-
+ "scans": {
+       "exclusions": "test",
+        "timeouts": {
+            "perFile": 300
+            "perLanguage": 600000
+            "perScan": 600000
+        }
+    } 
 }
