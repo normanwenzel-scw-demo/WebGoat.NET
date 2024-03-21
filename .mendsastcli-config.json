@@ -5,6 +5,8 @@
       "perFile": 180,
       "perScan": 30000000
     },
-    "pathExclusions":["/WebGoat/", "/Code/", "/App_Data/", "/Content/", "*.cs"]
+    "pathExclusions":["/WebGoat/", "/Code/", "/App_Data/", "/Content/", ".*\.cs$"],
+    "exclusions":["/WebGoat/", "/Code/", "/App_Data/", "/Content/", ".*\.cs$"],
+    "pathexclusions":["/WebGoat/", "/Code/", "/App_Data/", "/Content/", ".*\.cs$"]
   }
 }
