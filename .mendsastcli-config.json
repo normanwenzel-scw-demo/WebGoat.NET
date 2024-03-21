@@ -1,6 +1,6 @@
 {
  "scans": {
-        "exclusions": ["App_Code", "App_Data", "Code", "Content"],
+        "exclusions": [],
         "timeouts": {
             "perFile": 300
             "perLanguage": 600000
