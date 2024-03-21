@@ -1,6 +1,12 @@
 {
-  "scans": {
-         "csharpEngineGeneration": 2,
-        "jsEngineGeneration": 2
-    }
+    "scans": {
+        "csharpEngineGeneration": 2,
+        "jsEngineGeneration": 2,
+        "exclusions": [],
+        "timeouts": {
+            "perFile": 300
+            "perLanguage": 600000
+            "perScan": 600000
+        }
+    }   
 }
